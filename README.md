@@ -31,7 +31,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xYurii&theme=github_dark" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/0xYurii/0xYurii/output/github-contribution-grid-snake.svg)
+<!-- Dark mode snake -->
+![GitHub Snake Dark](https://raw.githubusercontent.com/0xYurii/0xYurii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 
 ---
