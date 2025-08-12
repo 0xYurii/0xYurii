@@ -1,6 +1,5 @@
 <h1 align="center">🕷️ Younes Hebaiche (0xYurii)</h1>
 <!-- <p align="center"><em>Crafting logic. Crushing lies.</em></p> -->
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Crafting+logic...;Crushing+lies...;Hunting+truth+in+code." alt="Typing SVG" />
