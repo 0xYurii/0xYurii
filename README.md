@@ -31,7 +31,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xYurii&theme=github_dark" />
 </p>
 
-![Snake animation](https://github.com/0xYurii/0xYurii/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/0xYurii/0xYurii/output/github-contribution-grid-snake.svg)
+
 
 ---
 
