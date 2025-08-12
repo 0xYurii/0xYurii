@@ -18,17 +18,18 @@
 
 ---
 
-### 📊 Activity Dashboard
+### ​ Activity Dashboard
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=0xYurii&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=0xYurii&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xYurii&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
+
 
 
 ---
