@@ -32,7 +32,3 @@
 
 
 ---
-
-### ⌛ WakaTime Stats (last 7 days)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
