@@ -30,10 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=0xYurii&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
----
-
-<!-- Dark mode snake -->
-![GitHub Snake Dark](https://raw.githubusercontent.com/0xYurii/0xYurii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
