@@ -43,7 +43,7 @@
 
 ---
 
-### 🧠 About Me (Terminal Style)
+### 🧠 About Me 
 
 ```bash
 > whoami
