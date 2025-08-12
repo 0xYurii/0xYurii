@@ -8,11 +8,25 @@
   <img src="https://img.shields.io/badge/Builder%20of%20Truth-darkred?style=for-the-badge&logo=verizon&logoColor=white">
 </p>
 
+---
+
+### 📊 Activity Dashboard
+
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=0xYurii&theme=dark&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=0xYurii&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xYurii&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### ⌛ WakaTime Stats (last 7 days)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
