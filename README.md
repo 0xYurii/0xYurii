@@ -10,7 +10,6 @@
 - 💻 **Self-taught developer** passionate about crafting elegant solutions from chaos
 - 🕸️ **Frontend specialist** with deep expertise in HTML, CSS, JavaScript, and React
 - 🐧 **Linux enthusiast** who enjoys full control over device and system-level exploration  
-- 🤖 **AI & automation advocate** - building bots and exploring the intersection of code and intelligence
 - 🎯 **Philosophy:** *"Build beautifully. Break silently. Learn endlessly."*
 - 🌍 **Mission:** Creating applications that bridge technical complexity with user simplicity
 
