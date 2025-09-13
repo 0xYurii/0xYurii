@@ -66,11 +66,3 @@ Interactive hangman game with a programming twist - save modern languages from A
 </p>
 
 ---
-
-### ⏳ Weekly Coding Time 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=0xYurii&theme=dark&hide_border=true" alt="WakaTime Stats"/>
-</p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
