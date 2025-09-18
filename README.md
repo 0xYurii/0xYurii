@@ -62,7 +62,7 @@ Interactive hangman game with a programming twist - save modern languages from A
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xYurii&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-xi-sandy-92.vercel.app/api?username=0xYurii&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
