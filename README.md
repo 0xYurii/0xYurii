@@ -57,7 +57,7 @@ Interactive hangman game with a programming twist - save modern languages from A
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=0xYurii&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak"/>
+    <img src="https://github-readme-stats-xi-sandy-92.vercel.app?user=0xYurii&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak"/>
   </a>
 </p>
 
